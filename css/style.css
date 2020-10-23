@@ -1,0 +1,43 @@
+body{
+  font-size: 14px;
+}
+
+.primo{
+  margin-top: 45px;
+}
+
+.primo [class*="col-"]{
+  text-align: center;
+}
+
+h2{
+  padding: 15px;
+  font-size: 28px;
+}
+h2#cademi{
+  padding: 50px 0 55px;
+}
+
+h3{
+  padding-top: 10px;
+}
+
+img{
+  height: 150px;
+}
+
+img.color{
+  height: 200px;
+  background-color: #428BCA;
+  border-radius: 50%;
+  padding: 10px;
+}
+
+p{
+  padding: 15px;
+}
+
+hr{
+  color: grey;
+  margin-bottom: 45px;
+}
